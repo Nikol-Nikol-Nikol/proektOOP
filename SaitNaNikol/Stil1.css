@@ -1,0 +1,14 @@
+﻿body
+{
+    background-color: lightcyan;
+}
+h1{
+    color:aquamarine;
+    text-align:center;
+    font-size:35px;
+}
+p{
+    font-family:Verdana;
+    font-size:19px;
+    color:bisque;
+}
